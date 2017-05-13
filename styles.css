@@ -10,3 +10,7 @@ img {
   float: left;
   width: 400px;
 }
+
+.jumbotron {
+  background-color: blue;
+}
