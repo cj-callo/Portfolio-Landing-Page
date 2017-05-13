@@ -3,3 +3,10 @@ img {
   padding: 10px;
   margin: 10px;
 }
+
+.borders {
+  border: solid;
+  border-style: ridge;
+  float: left;
+  width: 400px;
+}
