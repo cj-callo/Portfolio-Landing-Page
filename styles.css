@@ -1,7 +1,12 @@
+jumbotron {
+  width: 1000px;
+}
+
 img {
   float: right;
   padding: 10px;
-  margin: 10px;
+  margin-right: 90px;
+  margin-left: 10px;
 }
 
 .borders {
