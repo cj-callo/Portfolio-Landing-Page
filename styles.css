@@ -40,3 +40,7 @@ img {
 #large {
   font-size: 20px;
 }
+
+.description {
+  font-style: italic;
+}
