@@ -27,3 +27,13 @@ img {
   color:green;
   font-weight: bold;
 }
+
+.fun ul li {
+  color:purple;
+  font-weight:thin;
+}
+
+.serious p {
+  color:orange;
+  font-weight:bold;
+}
