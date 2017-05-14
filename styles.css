@@ -19,7 +19,6 @@ img {
 
 .sidebar {
   float:right;
-  margin-right: 90px;
 
 }
 
@@ -36,4 +35,8 @@ img {
 .serious p {
   color:orange;
   font-weight:bold;
+}
+
+#large {
+  font-size: 20px;
 }
