@@ -1,7 +1,7 @@
 # Portfolio Landing Page
 Epicodus - Individual Assignment #1 Weeks 1-4 CSS, HTML, GIT
 
-### Current webpage can be on gh-pages here: http://cj-callo.github.io/Portfolio-Landing-Page
+### Current webpage can be on gh-pages here: https://cj-callo.github.io/portfolio-landing-page/
 
 #### A begininng webpage for programming student porfolio, May 14, 2017
 
