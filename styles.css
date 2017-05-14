@@ -10,16 +10,9 @@ img {
   margin-left: 10px;
 }
 
-.borders {
-  border: solid;
-  border-style: ridge;
-  float: left;
-  width: 400px;
-}
-
 .sidebar {
   float:right;
-
+  margin-left:10px;
 }
 
 .school {
