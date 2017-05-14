@@ -12,6 +12,6 @@ img {
   width: 400px;
 }
 
-.jumbotron {
-  background-color: blue;
+.sidebar {
+  float:right;
 }
